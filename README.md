@@ -116,7 +116,7 @@ data:
   <a href="https://medium.com/@hamityldrm" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/medium-%2324292e.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="display: inline-block;" />
   </a>
-  <a href="https://www.instagram.com/ceystechlog/" target="_blank" style="display: inline-block; margin-right: 10px;">
+  <a href="https://www.instagram.com/hamity1ld1r1m/" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:hamityldrm8@gmail.com" style="display: inline-block;">
