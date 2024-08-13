@@ -110,7 +110,7 @@ data:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Project Animation" width="300" style="display: inline-block; vertical-align: middle; margin-right: 20px;"/>
-  <a href="https://linkedin.com/in/hamity1ld1r1m" target="_blank" style="display: inline-block; margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/hamityldrm/" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="display: inline-block;" />
   </a>
   <a href="https://medium.com/@hamityldrm" target="_blank" style="display: inline-block; margin-right: 10px;">
