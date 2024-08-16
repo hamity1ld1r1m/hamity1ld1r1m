@@ -20,7 +20,7 @@
 </h2>
 
 
-```javascript
+```yaml
 apiVersion: v1
 kind: ConfigMap
 metadata:
@@ -30,22 +30,51 @@ data:
   profile.yaml: |
     user_profile:
       name: "Hamit Yıldırım"
+      contact_information:
+        phone: "+90 530 180 58 01"
+        email: "hamityldrm8@gmail.com"
+        linkedin: "https://www.linkedin.com/in/hamityldrm/"
+        medium: "https://medium.com/@hamityldrm/"
+        location: "Yüreğir/Adana"
+        birth_date: "20.02.2000"
+        driving_license: "B Sınıfı"
       education:
-        degree: "Yönetim Bilişim Sistemleri"
-        university: "Osmaniye Korkut Ata Üniversitesi"
+        university:
+          name: "Osmaniye Korkut Ata Üniversitesi"
+          department: "Yönetim Bilişim Sistemleri"
+          faculty: "İktisadi ve İdari Bilimler Fakültesi"
+          gpa: "3.32"
+        high_school:
+          name: "Seyhan ÇEP Mesleki ve Teknik Anadolu Lisesi"
+          department: "Bilişim Teknolojileri Alanı / Web Programcılığı"
+          diploma_score: "71.80"
       professional_experience:
         current_role: "Bulut Platformu Altyapı Operasyonları Uzun Dönem Stajyeri"
         company: "Turkcell"
+        location: "İstanbul"
+        start_date: "Şubat 2024"
+        responsibilities:
+          - "RedHat OpenShift yönetimi"
+          - "Kubernetes yönetimi"
+          - "Docker konteyner yönetimi"
+          - "Linux işletim sistemleri (CentOS, Ubuntu)"
         career_goals:
-          - "Bilgi ve becerilerimi sürekli geliştirmek"
-          - "Kariyerimi bu yönde ilerletmek"
+          - "Bulut teknolojileri ve altyapı yönetimi konusundaki uzmanlığımı artırmak."
+          - "Yenilikçi çözümler üreterek sektördeki gelişmelere katkıda bulunmak."
       certifications:
-        - "CCNA"
+        - "CCNA Cisco"
         - "Linux"
         - "Kubernetes"
         - "OpenShift"
         - "Docker"
-      motto: "Bilgi ve becerilerimi sürekli yenileyerek kendimi geliştiriyorum."
+        - "Gönül Bağı Projeleri Bulut Teknolojileri Eğitim Programı Sertifikası"
+      skills:
+        - "RedHat OpenShift"
+        - "Kubernetes"
+        - "Docker"
+        - "RedHat, CentOS, Ubuntu Linux"
+        - "CCNA Cisco"
+      motto: "Sürekli öğrenme ve gelişimle, her gün daha iyi bir versiyonumu yaratıyorum."
 ```
 <h1 style="font-size: 2em; color: #ff5722; margin-bottom: 20px; text-align: left;">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Loading GIF" style="vertical-align: middle; width: 30px; height: auto; margin-right: 10px;"/>
