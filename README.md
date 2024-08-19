@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hi 👋, I'm Hamit &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="Loading GIF" style="vertical-align: middle; width: 80px; height: auto; margin-right: 40px;"/> &nbsp; Hi 👋, I'm Hamit &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="Loading GIF" style="vertical-align: middle; width: 80px; height: auto; margin-right: 40px;"/></h1>
 <div align="center">
   <p>
 <div align="center">
@@ -14,9 +14,9 @@
 
 
 <h1 style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Loading GIF" style="vertical-align: middle; width: 50px; height: auto; margin-right: 25px;"/>
   <span>Who is Hamit?..</span>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Loading GIF" style="vertical-align: middle; width: 50px; height: auto; margin-right: 25px;"/>
 </h1>
 
 
@@ -77,9 +77,9 @@ data:
       motto: "Sürekli öğrenme ve gelişimle, her gün daha iyi bir versiyonumu yaratıyorum."
 ```
 <h1 style="font-size: 2em; color: #ff5722; margin-bottom: 20px; text-align: left;">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Loading GIF" style="vertical-align: middle; width: 30px; height: auto; margin-right: 10px;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Loading GIF" style="vertical-align: middle; width: 50px; height: auto; margin-right: 25px;"/>
   My Projects
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Loading GIF" style="vertical-align: middle; width: 30px; height: auto; margin-left: 10px;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Loading GIF" style="vertical-align: middle; width: 50px; height: auto; margin-left: 25px;"/>
 </h1>
 
 <p style="text-align: left; margin: 0 auto; max-width: 600px;">
@@ -91,9 +91,9 @@ data:
   </a>
 </p>
 <h1 style="font-size: 2em; color: #ff5722; margin-bottom: 20px; text-align: left;">
-  <img src="https://private-user-images.githubusercontent.com/74038190/245400765-f1f082b7-47dd-4718-a778-c76f10c0853e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwNTQ0NjQsIm5iZiI6MTcyNDA1NDE2NCwicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NjUtZjFmMDgyYjctNDdkZC00NzE4LWE3NzgtYzc2ZjEwYzA4NTNlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDA3NTYwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0N2VmYjEwMzE0Zjk4ODczOGM3ZmZjOTY4NmNlMjMwYWIyYjEzZjJjZDE0Yzk0NzhmMTFkOTVmYTY1YmYwZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.df2xl8KaDEHuKh4VDkui6WN7RS4GoMMjP849_ktuYfQ" alt="Loading GIF" style="vertical-align: middle; width: 50px; height: auto; margin-right: 10px;"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/245400765-f1f082b7-47dd-4718-a778-c76f10c0853e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwNTQ0NjQsIm5iZiI6MTcyNDA1NDE2NCwicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NjUtZjFmMDgyYjctNDdkZC00NzE4LWE3NzgtYzc2ZjEwYzA4NTNlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDA3NTYwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0N2VmYjEwMzE0Zjk4ODczOGM3ZmZjOTY4NmNlMjMwYWIyYjEzZjJjZDE0Yzk0NzhmMTFkOTVmYTY1YmYwZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.df2xl8KaDEHuKh4VDkui6WN7RS4GoMMjP849_ktuYfQ" alt="Loading GIF" style="vertical-align: middle; width: 50px; height: auto; margin-right: 25px;"/>
   GitHub Stats
-  <img src="https://private-user-images.githubusercontent.com/74038190/245400765-f1f082b7-47dd-4718-a778-c76f10c0853e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwNTQ0NjQsIm5iZiI6MTcyNDA1NDE2NCwicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NjUtZjFmMDgyYjctNDdkZC00NzE4LWE3NzgtYzc2ZjEwYzA4NTNlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDA3NTYwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0N2VmYjEwMzE0Zjk4ODczOGM3ZmZjOTY4NmNlMjMwYWIyYjEzZjJjZDE0Yzk0NzhmMTFkOTVmYTY1YmYwZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.df2xl8KaDEHuKh4VDkui6WN7RS4GoMMjP849_ktuYfQ" alt="Loading GIF" style="vertical-align: middle; width: 50px; height: auto; margin-left: 10px;"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/245400765-f1f082b7-47dd-4718-a778-c76f10c0853e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwNTQ0NjQsIm5iZiI6MTcyNDA1NDE2NCwicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NjUtZjFmMDgyYjctNDdkZC00NzE4LWE3NzgtYzc2ZjEwYzA4NTNlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDA3NTYwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0N2VmYjEwMzE0Zjk4ODczOGM3ZmZjOTY4NmNlMjMwYWIyYjEzZjJjZDE0Yzk0NzhmMTFkOTVmYTY1YmYwZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.df2xl8KaDEHuKh4VDkui6WN7RS4GoMMjP849_ktuYfQ" alt="Loading GIF" style="vertical-align: middle; width: 50px; height: auto; margin-left: 25px;"/>
 </h1>
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=hamity1ld1r1m" width="1200" height="100" />
@@ -107,9 +107,9 @@ data:
 
 ---
 <h1 style="display: flex; align-items: center; justify-content: flex-start; gap: 10px;">
-  <img src="https://private-user-images.githubusercontent.com/74038190/245400757-7c9b8308-ecee-46c0-a442-6d779cfea10f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwNTM1ODAsIm5iZiI6MTcyNDA1MzI4MCwicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NTctN2M5YjgzMDgtZWNlZS00NmMwLWE0NDItNmQ3NzljZmVhMTBmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDA3NDEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQxZDBhMzBiNzNjMjA5YTY5Y2ZlYzlhMjczNGMzODIzNjFhNzkxZDc1MjlmNjJiOGY0N2U2OTMyNzA4NzRlYjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.k45CywrzOFpYlZtpdc6YFXUjehaQJGuHoIp8YLpZSCY" width="50" height="50">
+  <img src="https://private-user-images.githubusercontent.com/74038190/245400757-7c9b8308-ecee-46c0-a442-6d779cfea10f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwNTM1ODAsIm5iZiI6MTcyNDA1MzI4MCwicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NTctN2M5YjgzMDgtZWNlZS00NmMwLWE0NDItNmQ3NzljZmVhMTBmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDA3NDEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQxZDBhMzBiNzNjMjA5YTY5Y2ZlYzlhMjczNGMzODIzNjFhNzkxZDc1MjlmNjJiOGY0N2U2OTMyNzA4NzRlYjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.k45CywrzOFpYlZtpdc6YFXUjehaQJGuHoIp8YLpZSCY" alt="Loading GIF" style="vertical-align: middle; width:50px; height: auto; margin-right: 25px;"/>
   <span>Languages and Tools</span>
-  <img src="https://private-user-images.githubusercontent.com/74038190/245400757-7c9b8308-ecee-46c0-a442-6d779cfea10f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwNTM1ODAsIm5iZiI6MTcyNDA1MzI4MCwicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NTctN2M5YjgzMDgtZWNlZS00NmMwLWE0NDItNmQ3NzljZmVhMTBmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDA3NDEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQxZDBhMzBiNzNjMjA5YTY5Y2ZlYzlhMjczNGMzODIzNjFhNzkxZDc1MjlmNjJiOGY0N2U2OTMyNzA4NzRlYjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.k45CywrzOFpYlZtpdc6YFXUjehaQJGuHoIp8YLpZSCY" width="50" height="50">
+  <img src="https://private-user-images.githubusercontent.com/74038190/245400757-7c9b8308-ecee-46c0-a442-6d779cfea10f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwNTM1ODAsIm5iZiI6MTcyNDA1MzI4MCwicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NTctN2M5YjgzMDgtZWNlZS00NmMwLWE0NDItNmQ3NzljZmVhMTBmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDA3NDEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQxZDBhMzBiNzNjMjA5YTY5Y2ZlYzlhMjczNGMzODIzNjFhNzkxZDc1MjlmNjJiOGY0N2U2OTMyNzA4NzRlYjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.k45CywrzOFpYlZtpdc6YFXUjehaQJGuHoIp8YLpZSCY" alt="Loading GIF" style="vertical-align: middle; width: 50px; height: auto; margin-right: 25px;"/>
 </h1>
 
 <p align="center">
