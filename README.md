@@ -13,11 +13,11 @@
 </div>
 
 
-<h2 style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<h1 style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height="50">
   <span>Who is Hamit?..</span>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height="50">
-</h2>
+</h1>
 
 
 ```yaml
@@ -90,9 +90,11 @@ data:
     <img src="https://img.shields.io/badge/Kubernetes%20Projects-%230077B5?style=for-the-badge&logo=github&logoColor=white" alt="Kubernetes Projects" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
   </a>
 </p>
-
-
-<h1 align="left" style="font-size: 3em; color: #ff5722;">📊 GitHub Stats:</h1>
+<h1 style="font-size: 2em; color: #ff5722; margin-bottom: 20px; text-align: left;">
+  <img src="https://private-user-images.githubusercontent.com/74038190/245400765-f1f082b7-47dd-4718-a778-c76f10c0853e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwNTQ0NjQsIm5iZiI6MTcyNDA1NDE2NCwicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NjUtZjFmMDgyYjctNDdkZC00NzE4LWE3NzgtYzc2ZjEwYzA4NTNlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDA3NTYwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0N2VmYjEwMzE0Zjk4ODczOGM3ZmZjOTY4NmNlMjMwYWIyYjEzZjJjZDE0Yzk0NzhmMTFkOTVmYTY1YmYwZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.df2xl8KaDEHuKh4VDkui6WN7RS4GoMMjP849_ktuYfQ" alt="Loading GIF" style="vertical-align: middle; width: 50px; height: auto; margin-right: 10px;"/>
+  GitHub Stats
+  <img src="https://private-user-images.githubusercontent.com/74038190/245400765-f1f082b7-47dd-4718-a778-c76f10c0853e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwNTQ0NjQsIm5iZiI6MTcyNDA1NDE2NCwicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NjUtZjFmMDgyYjctNDdkZC00NzE4LWE3NzgtYzc2ZjEwYzA4NTNlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDA3NTYwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0N2VmYjEwMzE0Zjk4ODczOGM3ZmZjOTY4NmNlMjMwYWIyYjEzZjJjZDE0Yzk0NzhmMTFkOTVmYTY1YmYwZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.df2xl8KaDEHuKh4VDkui6WN7RS4GoMMjP849_ktuYfQ" alt="Loading GIF" style="vertical-align: middle; width: 50px; height: auto; margin-left: 10px;"/>
+</h1>
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=hamity1ld1r1m" width="1200" height="100" />
   <img src="https://github-readme-stats.vercel.app/api?username=hamity1ld1r1m&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" style="width:400px; height:200px;">
@@ -104,7 +106,11 @@ data:
 </div>
 
 ---
-<h1 align="left" style="font-size: 3em; color: #ff5722;">🛠️ Languages and Tools:</h1>
+<h1 style="display: flex; align-items: center; justify-content: flex-start; gap: 10px;">
+  <img src="https://private-user-images.githubusercontent.com/74038190/245400757-7c9b8308-ecee-46c0-a442-6d779cfea10f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwNTM1ODAsIm5iZiI6MTcyNDA1MzI4MCwicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NTctN2M5YjgzMDgtZWNlZS00NmMwLWE0NDItNmQ3NzljZmVhMTBmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDA3NDEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQxZDBhMzBiNzNjMjA5YTY5Y2ZlYzlhMjczNGMzODIzNjFhNzkxZDc1MjlmNjJiOGY0N2U2OTMyNzA4NzRlYjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.k45CywrzOFpYlZtpdc6YFXUjehaQJGuHoIp8YLpZSCY" width="50" height="50">
+  <span>Languages and Tools</span>
+  <img src="https://private-user-images.githubusercontent.com/74038190/245400757-7c9b8308-ecee-46c0-a442-6d779cfea10f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwNTM1ODAsIm5iZiI6MTcyNDA1MzI4MCwicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NTctN2M5YjgzMDgtZWNlZS00NmMwLWE0NDItNmQ3NzljZmVhMTBmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDA3NDEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQxZDBhMzBiNzNjMjA5YTY5Y2ZlYzlhMjczNGMzODIzNjFhNzkxZDc1MjlmNjJiOGY0N2U2OTMyNzA4NzRlYjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.k45CywrzOFpYlZtpdc6YFXUjehaQJGuHoIp8YLpZSCY" width="50" height="50">
+</h1>
 
 <p align="center">
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
